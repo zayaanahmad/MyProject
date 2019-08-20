@@ -1,0 +1,7 @@
+.gradle
+settings.gradle
+.idea
+build
+gradlew*
+gradle
+.DS_Store
